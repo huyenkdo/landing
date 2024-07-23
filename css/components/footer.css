@@ -1,0 +1,22 @@
+.footer {
+  background-color: #2c2b2b;
+  color: gray;
+  padding: 50px 0;
+  text-align: -webkit-center;
+}
+
+.socials-list {
+  display: flex;
+  width: 200px;
+  justify-content: space-evenly;
+}
+
+.socials-list a {
+  text-decoration: none;
+  font-size: 33px;
+  color: #1EDD88;
+}
+
+.footer > p > i {
+  color: red;
+}

@@ -1,0 +1,23 @@
+.card {
+  width: 200px;
+  border-style: solid;
+  padding: 20px;
+  border-color: rgb(225, 225, 225);
+  border-width: thin;
+  box-shadow: 0 0 10px #00000013;
+  border-radius: 3px;
+}
+
+.card img {
+  width: 80%;
+  object-fit: cover;
+}
+
+.card h3 {
+  font-size: 16px;
+}
+
+.card p {
+  font-size: 16px;
+  color: gray;
+}

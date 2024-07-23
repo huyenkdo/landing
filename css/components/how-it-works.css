@@ -1,0 +1,15 @@
+.how-it-works {
+  display: flex;
+  justify-content: center;
+}
+
+.container-how-it-works {
+  text-align: center;
+  width: 65%;
+  padding-bottom: 25px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-between;
+}
